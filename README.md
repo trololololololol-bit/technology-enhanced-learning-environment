@@ -3,7 +3,7 @@ Technology-enhanced-learning-environment project:
 'Techfix' - Gamified learning platform || UX/UI prototype
 
 A gamified learning platform prototype designed in Figma that teaches users about technology through 
-interactive workplace simulations of repair and diagnostics. 
+interactive workplace simulations. 
 
 Features: 
 - User flow
@@ -15,7 +15,7 @@ Features:
 What I learned:
 - UX design process from design to prototype
 - Applying psychological principles to interaction design
-- Designing for engagement and accessibility
+- Designing for engagement + accessibility
 - Iterative refinement based on user feedback
   
 https://go.screenpal.com/watch/cO163EnutZP
